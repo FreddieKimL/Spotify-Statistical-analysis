@@ -3,7 +3,7 @@ This is a script that provides you with a data analysis and data visualization o
 
 Two scripts are included
 - Spotify API data collection: get the data of Spotify song list by Spotify API
-- Spotify Data Analysis: provide data visualization 
+- Spotify Data Analysis: provide data analysis and data visualization 
 
 Analysis Steps:
 1. Before running the scripts, you have to apply your own Spotify API with your account which is included (client_id and client_secret)
