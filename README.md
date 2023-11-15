@@ -7,4 +7,4 @@ Two scripts are included
 
 Analysis Steps:
 1. Before running the scripts, you have to apply your own Spotify API with your account which is included (client_id and client_secret)
-2. Create a song list that you'd like to analyze on your own Spotify account.
+2. Create a song list that you'd like to analyze on your own Spotify account. (All the songs must be from the same artist who, in my case, is Jay Chou)
